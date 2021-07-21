@@ -1,0 +1,7 @@
+C:\Users\kiera\Documents\GitHub\sales-application\SalesApplication\bin\Debug\SalesApplication.exe.config
+C:\Users\kiera\Documents\GitHub\sales-application\SalesApplication\bin\Debug\SalesApplication.exe
+C:\Users\kiera\Documents\GitHub\sales-application\SalesApplication\bin\Debug\SalesApplication.pdb
+C:\Users\kiera\Documents\GitHub\sales-application\SalesApplication\obj\Debug\SalesApplication.csproj.AssemblyReference.cache
+C:\Users\kiera\Documents\GitHub\sales-application\SalesApplication\obj\Debug\SalesApplication.csproj.CoreCompileInputs.cache
+C:\Users\kiera\Documents\GitHub\sales-application\SalesApplication\obj\Debug\SalesApplication.exe
+C:\Users\kiera\Documents\GitHub\sales-application\SalesApplication\obj\Debug\SalesApplication.pdb

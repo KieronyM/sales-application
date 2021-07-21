@@ -1,0 +1,15 @@
+//CREATE DATABASE
+create database supermarket
+
+//USE SUPERMARKET
+use supermarket
+
+//CREATE SALES TABLE
+create table sales (
+saleID int AUTO_INCREMENT,
+product_name varchar(100) NOT NULL,
+quantity int NOT NULL,
+price DEC(10,2) NOT NULL,
+sale_Date DATE DEFAULT (CURRENT_DATE()),
+PRIMARY KEY(saleID)
+);
