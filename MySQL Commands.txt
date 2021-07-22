@@ -13,3 +13,7 @@ price DEC(10,2) NOT NULL,
 sale_Date DATE DEFAULT (CURRENT_DATE()),
 PRIMARY KEY(saleID)
 );
+
+V7^@5akH$dZ(yTI%HMlP
+
+hB2|?~@uvsD*/6zJ
